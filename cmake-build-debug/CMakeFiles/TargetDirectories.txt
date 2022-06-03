@@ -1,0 +1,3 @@
+/home/maksym/os/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maksym/os/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+/home/maksym/os/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
